@@ -9,14 +9,6 @@ async def on_ready():
     print("Bot is connected")
 
 
-client.run("MTA2NzU4MTA3Mjk3MzUxNjg1MQ.GyIoUO.QP1hiXf0wBlwmFPeQ3yN15Y-BLOImYeH0TP5js")
-
-
-
-
-
-
-
         
 
 
